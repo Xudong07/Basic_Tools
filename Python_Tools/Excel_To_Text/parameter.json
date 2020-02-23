@@ -1,0 +1,7 @@
+{
+    "ExcelName" : "FG_MathType_1.xlsx",
+    "SheetNames" : ["FG_1","FG_2","FG_3"],
+    "SheetRange" : [[7, 67, "C", "G"], [7, 67, "C", "G"], [7, 67, "C", "G"]],
+    "OutTxtName" : "Reels.txt"
+}
+
